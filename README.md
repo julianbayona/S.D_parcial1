@@ -1,9 +1,20 @@
 # S.D_parcial1
 
 ## PUNTO 1
-Posterior hacemos la contruciion de nuestra imagen 
+CREAMOS NUESTRO DOCKER FILE Y ESCRIBIMOS NUESTRO CONTENIDO
+![creacion](./imagenes/1.png)
 
-![creacion](./imagenes/3.png)
+HACEMOS LA CONSTRUCCION DE NUESTRA IMAGEN
+
+![creacion](./imagenes/2.png)
+
+CREAMOS NUESTRO CONTENENDOR A PARTIR DE NUESTRA IMAGEN 
+
+![creacion](./imagenes/2.1.png)
+
+MIRAMOS NUESTROS LOGS CON BASE AL ID DEL CONTENEDOR CREADO ANTERIORMENTE 
+![creacion](./imagenes/2.2.png)
+
 
 
 ## PUNTO 2
