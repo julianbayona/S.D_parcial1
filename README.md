@@ -3,52 +3,52 @@
 ## PUNTO 1
 Posterior hacemos la contruciion de nuestra imagen 
 
-![creacion](./images/3.png)
+![creacion](./imagenes/3.png)
 
 
 ## PUNTO 2
 PRIMERO CREAMOS NUESTRO VOLUMEN
 
-![creacion](./images/4.png)
+![creacion](./imagenes/4.png)
 
 POSTERIORMENTE HACEMOS LA INSTANCIA DE NUESTRA IMAGEN PERO PASANDO EL VOLUMEN QUE ESTA EN EL HOST AL DIRECTORIO DE NUESTRO CONTENEDOR 
 
-![creacion](./images/5.png)
+![creacion](./imagenes/5.png)
 
 
 NOS INTRODUCIMOS AL CONTENEDOR Y CREAMOS E INSERTAMOS LOS DATOS CORRESPONDIENTES
 
-![creacion](./images/6.png)
+![creacion](./imagenes/6.png)
 
 ELIMINAMOS EL CONTENEDOR
 
-![creacion](./images/7.png)
+![creacion](./imagenes/7.png)
 
 VOLVEMOS A CREAR NUESTRO CONTENEDOR 
 
-![creacion](./images/8.png)
+![creacion](./imagenes/8.png)
 
 Y VERIFICAMOS LA INTEGRIDAD DE LOS DATOS ANTERIORMENTE CREADOS 
 
-![creacion](./images/9.png)
+![creacion](./imagenes/9.png)
 
 ## PUNTO 3
 
 CREAMOS NUESTRO DIRECTORIO Y CREAMOS EL HTML Y CON NANO LOS COLOCAMOS LA INFORMACION INDICADA
 
-![creacion](./images/10.png)
+![creacion](./imagenes/10.png)
 
 CREAMOS NUESTRO CONTENEDOR PARA QUE SEA DE SOLO LECTURA GENERANDO UN BIND DE NUESTRO INDEX PERO QUE SEA DE READ ONLY
 
-![creacion](./images/11.png)
+![creacion](./imagenes/11.png)
 
 VERIFICAMOS EL CONTENIDO EN LA WEB 
 
-![creacion](./images/12.png)
+![creacion](./imagenes/12.png)
 
 FINALMENTE EDITAMOS NUESTRO ARCHIVO CON NANO Y EVIDENCIAMOS EL CAMBIO EN NUESTRA WEB 
 
-![creacion](./images/13.png)
+![creacion](./imagenes/13.png)
 
 
 
